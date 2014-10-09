@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="cobble1" tilewidth="32" tileheight="32">
+  <image source="TilesCobble1.png" width="512" height="513"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztVkEOwjAM6w/GD9r/vxImUckYu0kq4MImWWODxonjphytteOB2xMjwAGYa47gzjjfd4qnYil0AH+nOFUNPRFL5eGeZ4wBdwTngvwzThdwGkSY8VTtzLvLUc0nw+/6X3l2/svoXqkF1w3xGe+jef4M344vs/XzPuDv3P7N9mHVE1c/5jvau3/R31EfVj1xMyurc7TWaZDpf+Qzfrfjj1/t/5V/1dxbwflp1Q+1H1TsjJbV+iLsznnnRdQo4wN1FnazJvIr1jTa69nn9itrHvFV9ujkWOXwLX/z/xzm5zyyOUVaqbMWdUa91RzKzHQ1j1y/2AusRUbHyqzis517wLlUtc/MJbXG9QTfu7kU8bockavTb6YG7Kkq1AxVtTtfVOv9JE7+67quf77u8FJDIg==
+  </data>
+ </layer>
+</map>
